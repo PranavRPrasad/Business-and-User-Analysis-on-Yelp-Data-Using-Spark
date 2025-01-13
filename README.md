@@ -115,5 +115,13 @@ pyspark
    ![](https://res.craft.do/user/full/0f709ccb-026e-16d6-7cd0-33d21e5a77a4/doc/F02F6524-2C75-4BEA-ADBA-A61517B1CF32/4F4C6857-2D95-42E1-87EA-FA3EC0D74A23_2/gUHeErsoGaQBtvXIog8U5my9jlV61MXIXdiTyXYMkK0z/Image.png)
    Click on the left Download JSON to download the dataset (Photos is not required). Since the download is large, please be patient and use a stable internet connection while downloading the dataset.
 
+# Project
++ Milestone 1: Business Level Analysis:
+  + Objective: Analyze businesses based on their attributes, reviews, ratings, locations,
+and other relevant data.
++ Milestone 2: User Level Analysis
+  + Objective: Analyze user behavior, contributions (reviews, tips), and influence within the
+Yelp community.
+
 # Report
 + For a detailed explanation of my analysis, kindly go through the 2 reports uploaded.
