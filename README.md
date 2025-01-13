@@ -1,5 +1,5 @@
 # Gist
-+ Analyzed Yelp data to understand businesses and user activity in Arizona.
++ Analyzed Yelp data to understand businesses (Project Milestone 1) and user (Project Milestone 2) activity in Arizona.
 + Converted JSON files to Parquet for faster analysis.
 + Used Spark SQL to filter businesses by category and identify patterns in reviews, ratings, and user behavior.
 
